@@ -49,3 +49,45 @@ These are proposed *avenues for falsification* rather than predictions of truth.
 | **Energy-balance scaling** | Ratio of dark-energy to dark-matter density | Emerges from geometric factors of the Bulk-standing-wave pattern (~2:1) | Ratio unexplained or inconsistent with evolution over z |
 
 Any one of these avenues can falsify the model.  The goal is not to confirm but to test whether such symmetry could exist within known data.
+
+## 4. Relation to Existing Work  
+
+- **General Relativity:** The framework preserves Einstein’s field equations locally; any new term must average to Λ on large scales.  
+- **Emergent / entropic gravity:** Shares conceptual ground with Verlinde-style ideas of gravity arising from deeper information structure.  
+- **Quantum gravity:** Offers a phenomenological bridge that could connect microscopic horizon dynamics to macroscopic vacuum energy.  
+- **Thermodynamic interpretations:** Resonates with black-hole thermodynamics and holographic principles that already link area, energy, and entropy.  
+
+The novelty lies in treating dark energy not as a separate component but as the *diffuse complement* of black-hole dynamics in a globally conserved system.
+
+---
+
+## 5. Open Questions for Collaboration  
+
+1. Can this exchange be expressed as a covariant conservation law within GR or an effective field-theory extension?  
+2. What form would the coupling term between localized curvature and Bulk field take?  
+3. Does any existing dataset already falsify this link?  
+4. Could numerical simulations approximate Bulk-wave feedback on cosmic expansion?  
+5. If invalid, what does that teach us about energy accounting in curved spacetime?  
+
+---
+
+## 6. Invitation  
+
+This repository is not a claim of discovery—it is an **open invitation to curiosity**.  
+If this balance is impossible, showing why deepens our grasp of cosmological conservation.  
+If it is possible, even in limited form, the implications could connect several outstanding mysteries.  
+
+Researchers, students, and enthusiasts are welcome to:  
+- Formalize the equations.  
+- Identify conflicts with known physics.  
+- Suggest observational tests.  
+- Help define precisely what “Bulk” would mean mathematically.  
+
+> *“The best way to understand an idea is to try to disprove it honestly.”*
+
+---
+
+**Maintainer:** [Your Name]  
+**Contact:** [your.email@example.com]  
+**Repository:** [GitHub link]  
+**License:** CC BY-SA 4.0  
