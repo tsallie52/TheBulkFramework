@@ -88,7 +88,7 @@ That’s valuable science.
 
 ---
 
-**Maintainer:** [Your Name]  
-**Contact:** [your.email@example.com]  
+**Maintainer:** Tom Sallie   
+**Contact:** tsallie@gmail.com
 **License:** Creative Commons Attribution-ShareAlike 4.0  
 
