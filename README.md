@@ -71,3 +71,7 @@ Either way, the question seems worth exploring.
 **Maintainer:** Tom Sallie
 **Contact:** tsallie@gmail.com
 **License:** Creative Commons Attribution-ShareAlike 4.0  
+## 📖 Citation
+If you reference this work, please cite as:
+
+Tom Sallie (2025). *The Bulk Equilibrium Framework: Exploring a Possible Conservation Symmetry Between Black Holes and Dark Energy.* Zenodo. [https://doi.org/10.xxxxx/zenodo.xxxxx](https://doi.org/10.xxxxx/zenodo.xxxxx)
